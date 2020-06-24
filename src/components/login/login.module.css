@@ -1,0 +1,17 @@
+.container{
+    margin: 50% 0%;
+}
+.card{
+
+    margin:0% 1% !important;
+    Width: 60%;
+    height: 50%;
+}
+
+.login{
+    border-bottom: 13px solid rgba(0,255,0,0.5);
+}
+
+.button{
+    align-items: center;
+}

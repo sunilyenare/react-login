@@ -1,0 +1,17 @@
+{
+  "poc": [
+    {
+      "id": 1,
+      "email": "syenare97@gmail.com",
+      "code": 1234,
+      "color": "#ff9100"
+    },
+    {
+      "id": 2,
+      "email": "patil@gmail.com",
+      "code": 1234,
+      "color": "#18ffff"
+    }
+  
+  ]
+}
